@@ -1,0 +1,39 @@
+.Form{
+    font-family: sans-serif;
+}
+.card{
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+    width: 220px;
+    gap: 10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 237px;
+    height: 306px;
+    background-color: #D3D3D3;
+    padding: 12px 17px;
+    border-radius: 15px;
+}
+
+button{
+    width: 100px;
+}
+.basic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
